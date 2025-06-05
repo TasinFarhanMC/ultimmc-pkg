@@ -1,7 +1,7 @@
 # Maintainer: Tasin Farhan <tasinfarhan1016@gmail.com> -> https://github.com/TasinFarhanMC
 # Contributor: Neptune <neptune@b7s.ru>
 
-pkgname=ultimmc-bin
+pkgname=ultimmc-bin-git
 pkgver=1.6
 pkgrel=5
 pkgdesc="Free, open source launcher and instance manager for Minecraft."
