@@ -1,0 +1,6 @@
+pkg/
+src/
+*.deb
+*.pkg.*
+*.zip
+ultimmc.1
